@@ -1,93 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Getinet Belayneh | Futuristic GitHub Profile</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+  <h1 align="center">Hi 👋, I'm Getinet Belayneh</h1>
+<h3 align="center">🚀 Full Stack Developer | Django • JavaScript • Node.js • HTML • CSS</h3>
 
-        :root {
-            --primary: #00f7ff;
-            --secondary: #8a2be2;
-            --dark: #0a0a1a;
-            --darker: #050510;
-            --light: #e0f7fa;
-            --accent: #ff2a6d;
-        }
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-        body {
-            background: linear-gradient(135deg, var(--darker), var(--dark));
-            color: var(--light);
-            min-height: 100vh;
-            overflow-x: hidden;
-            position: relative;
-        }
+---
 
-        body::before {
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: 
-                radial-gradient(circle at 10% 20%, rgba(138, 43, 226, 0.1) 0%, transparent 20%),
-                radial-gradient(circle at 90% 80%, rgba(0, 247, 255, 0.1) 0%, transparent 20%);
-            pointer-events: none;
-            z-index: -1;
-        }
+🌟 I'm passionate about building scalable web apps and learning new technologies every day.
 
-        .particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-        }
+- 🔭 I’m currently working on **AI-powered web apps & real-time APIs**
+- 🌱 I’m improving my skills in **Next.js, Docker, and cloud deployment**
+- 💬 Ask me about: **Django, REST APIs, JavaScript, Node.js**
+- 📫 Reach me: **getinetbelayneh0918@gmail.com**
+- ⚡ Fun fact: I can build a full-stack project in one weekend 🚀
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+---
 
-        /* Header Styles */
-        header {
-            padding: 40px 0;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
+## 🛠️ Tech Stack
 
-        .avatar-container {
-            position: relative;
-            width: 180px;
-            height: 180px;
-            margin: 0 auto 20px;
-            border-radius: 50%;
-            background: linear-gradient(45deg, var(--primary), var(--secondary));
-            padding: 5px;
-            animation: float 6s ease-in-out infinite;
-            box-shadow: 0 0 30px rgba(0, 247, 255, 0.5);
-        }
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-        .avatar {
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-            background: url('https://avatars.githubusercontent.com/u/109335949?v=4') center/cover;
-            border: 3px solid var(--dark);
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=getu091898&show_icons=true&theme=radical" alt="getinet's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getu091898&layout=compact&theme=radical" alt="Top Langs" height="200"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:getinetbelayneh0918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/getinet-belayneh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+![Snake animation](https://github.com/getu091898/getu091898/blob/output/github-contribution-grid-snake.svg)
+          border: 3px solid var(--dark);
         }
 
         .hologram {
