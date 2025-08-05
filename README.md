@@ -17,4 +17,4 @@ I'm a passionate **Full Stack Developer** with a love for building dynamic and s
 ---
 
 ### Let's Connect! 🤝
-- **[Email]** (mailto:your.getinet1223@gmail.com)
+- **[Email]** (getinet1223@gmail.com)
