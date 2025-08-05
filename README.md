@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.WavyHello_small.gif" alt="Waving Hello" style="height: 50px;">
-</div>
+# Hi there I'm Getinet Belayneh I'm FullStack web developer 👋
 
-# Getinet Belayneh | `Vibe Coder`
-
-### A Full-Stack Developer with a passion for creating clean, functional, and visually appealing web experiences.
+### A coder with a passion for creating clean, functional, and visually appealing web experiences.
 
 ---
 
