@@ -1,59 +1,53 @@
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="GitHub Profile Banner" style="width: 100%;">
+  <img src="https://user-images.githubusercontent.com/47656627/186548761-9c60e447-0624-4f4a-81a1-f3b14945391c.gif" alt="Waving Hello" style="height: 50px;">
 </div>
 
-### 🌟 Hello there, I'm Getinet Belayneh
+# Hi, I'm Getinet Belayneh 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&random=false&width=435&lines=Full-Stack+Developer;Building+robust+and+scalable+solutions;Passionate+about+innovation" alt="Typing SVG" />
-</div>
-
-As a Full-Stack Developer, my mission is to build clean, efficient, and user-friendly applications that solve real-world problems. I thrive on bringing ideas to life, managing projects from concept to deployment, and collaborating with others to create something great.
+I'm a passionate Full-Stack Developer with a focus on building engaging and scalable applications. My work involves creating robust back-ends and intuitive front-end experiences. This profile is my personal dashboard, where I showcase my projects, skills, and journey as a developer.
 
 ---
 
-### 🛠️ The Tech Dashboard
+### 💻 My Interactive Developer Dashboard
 
-This section provides a clear, at-a-glance view of my skills and activity. It's the "dashboard" that gives people a quick understanding of my work.
+<div align="center">
+  </div>
 
-**Core Technologies:**
+---
+
+### 🛠️ Core Technologies
+
+I work with a variety of technologies to build my projects. Here are some of my core skills:
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,java,javascript,react,nodejs,postgres,mongodb,vscode,git,github,docker,aws" />
 </p>
 
 ---
 
-### 📊 My GitHub Contributions at a Glance
+### 📈 My Development Activity
 
-This is where we visualize your work. We'll include a combination of stats to paint a full picture of your activity.
+This chart gives a detailed look into my coding habits and contributions throughout the year.
 
 <div align="center">
-    <img src="https://github-profile-3d.vercel.app/api/getu091898" alt="Getinet's 3D Contribution Graph" style="max-width: 100%;" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=getu091898&show_icons=true&theme=onedark&hide_title=true&include_all_commits=true" alt="Getinet's GitHub Stats" style="max-width: 48%; margin: 10px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=getu091898&theme=react-dark&hide_title=false" alt="Getinet's Activity Graph" style="width: 100%;">
+</div>
+
+---
+
+### ⭐ My GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=getu091898&show_icons=true&theme=onedark&hide_title=true" alt="Getinet's GitHub Stats" style="max-width: 48%; margin: 10px;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=getu091898&theme=onedark" alt="GitHub Streak" style="max-width: 48%; margin: 10px;"/>
 </div>
 
 ---
 
-### 🚀 Projects That Define My Journey
-
-This section highlights a few key projects, giving a deeper look into your work. Make sure to update these with your actual projects!
-
-* **[Project Name 1]:** A brief description of the project and the technologies used (e.g., "A real-time chat application built with Node.js and React.").
-* **[Project Name 2]:** A brief description of the project and the technologies used (e.g., "An e-commerce platform using Django and PostgreSQL.").
-* **[Project Name 3]:** A brief description of the project and the technologies used (e.g., "A data visualization tool for a university project.").
-
----
-
-### 📫 Let's Connect
-
-I'm always open to new opportunities and collaborations. Feel free to connect with me!
+### 📫 Connect with Me
 
 * **Email:** getinet1223@gmail.com
 
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=getu091898.getu091898" alt="Visitors">
