@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="GitHub Profile Banner" style="width: 100%;">
+</div>
 
 ### 🌟 Hello there, I'm Getinet Belayneh
 
@@ -48,5 +51,10 @@ This section highlights a few key projects, giving a deeper look into your work.
 I'm always open to new opportunities and collaborations. Feel free to connect with me!
 
 * **Email:** getinet1223@gmail.com
-  
 
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=getu091898.getu091898" alt="Visitors">
+</div>
