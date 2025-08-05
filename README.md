@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/47656627/186548761-9c60e447-0624-4f4a-81a1-f3b14945391c.gif" alt="Waving Hello" style="height: 50px;">
+  <img src="https://media.giphy.com/media/v1.WavyHello_small.gif" alt="Waving Hello" style="height: 50px;">
 </div>
 
-# Hello, I'm Getinet Belayneh 👋
+# Getinet Belayneh | `Vibe Coder`
 
-I'm a passionate **Full Stack Developer** with a focus on building elegant and scalable web applications. My journey is driven by a curiosity to learn and a commitment to creating seamless user experiences.
+### A Full-Stack Developer with a passion for creating clean, functional, and visually appealing web experiences.
 
 ---
 
-### 🚀 My Digital Toolkit
+### 💻 The Tech Vibe
 
 <div align="center">
   <p>
@@ -21,7 +21,16 @@ I'm a passionate **Full Stack Developer** with a focus on building elegant and s
 
 ---
 
-### 📊 My Developer Dashboard
+### 🎧 Now Listening on Spotify
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/static_image?user=YOUR_SPOTIFY_USERNAME&theme=dark" alt="Spotify now playing card" />
+</div>
+_You can set this up by following the instructions [here](https://github.com/tesfa12/spotify-github-profile)._
+
+---
+
+### 📈 My Developer Dashboard
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=getu091898&show_icons=true&theme=onedark&hide_title=true" alt="Getinet's GitHub Stats" style="max-width: 48%; margin: 10px;">
