@@ -1,48 +1,60 @@
-<h1 align="center">Hi 👋, I'm Getinet Belayneh</h1>
-<h3 align="center">🚀 Full Stack Developer | Django • JavaScript • Node.js • HTML • CSS</h3>
+<div align="center">
+  <a href="https://github.com/getu091898">
+  <img src="https://komarev.com/ghpvc/?username=getu091898&color=blue" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Hello%2C%20I'm-Getinet-informational?style=for-the-badge&logo=github&logoColor=fff" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# Hi there 👋, I'm Getinet!
 
----
-
-🌟 I'm passionate about building scalable web apps and learning new technologies every day.
-
-- 🔭 I’m currently working on **AI-powered web apps & real-time APIs**
-- 🌱 I’m improving my skills in **Next.js, Docker, and cloud deployment**
-- 💬 Ask me about: **Django, REST APIs, JavaScript, Node.js**
-- 📫 Reach me: **getinetbelayneh0918@gmail.com**
-- ⚡ Fun fact: I can build a full-stack project in one weekend 🚀
+I'm a passionate developer always looking for creative projects. I believe in using technology to build fantastic and engaging experiences. You can find me working on a variety of projects, from web development to game design.
 
 ---
 
-## 🛠️ Tech Stack
+### 🔥 My GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <a href="https://github.com/getu091898">
+    <img src="https://github-readme-stats.vercel.app/api?username=getu091898&show_icons=true&theme=radical&hide_border=true" alt="Getinet's GitHub Stats" />
+  </a>
+</div>
 
----
+<br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=getu091898&show_icons=true&theme=radical" alt="getinet's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getu091898&layout=compact&theme=radical" alt="Top Langs" height="200"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/getu091898/getu091898/output/snake.svg" alt="Snake animation" style="max-width: 100%; height: auto;"/>
+</div>
 
 ---
 
-## 🔗 Connect With Me
+### 💻 Skills
 
-<p align="center">
-  <a href="mailto:getinet1223@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/getinet-belayneh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="Programming Languages" />
+  <h4>Frameworks & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vscode,git,github" alt="Frameworks and Tools" />
+  <h4>Databases & Cloud</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" alt="Databases and Cloud" />
+</div>
 
 ---
 
-![Snake animation](https://github.com/getu091898/getu091898/blob/output/github-contribution-grid-snake.svg)
+### 📫 Let's Connect!
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me!
+
+<a href="mailto:getinet1223@gmail.com">
+  <img src="https://img.shields.io/badge/Email-getinet1223%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/getu091898">
+  <img src="https://img.shields.io/badge/GitHub-getu091898-informational?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+---
+
+### 🕹️ Fantastic Game Project
+
+Here's an example of where you can showcase your fantastic game! Pin the repository for your game to your profile and add a short description here about what it does and why it's a great project.
+
+---
