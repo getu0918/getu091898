@@ -1,0 +1,28 @@
+name: generate-github-profile-snake-game
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: get-getu/github-profile-3d-contrib@1.1.0
+      - name: generate-snake
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: getu091898
+          gif_out_path: ./output/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: commit-snake
+        run: |
+          git config --global user.email "getinet1223@gmail.com"
+          git config --global user.name "getu091898"
+          git add ./output/snake.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
